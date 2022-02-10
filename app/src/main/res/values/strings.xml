@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialAuth</string>
+    <string name="facebook_app_id">683181103095775</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+<!--    <string name="default_web_client_id" translatable="false">83098979459-29tglevoonsudg93c1bq48a8lp7v833e.apps.googleusercontent.com</string>-->
+</resources>

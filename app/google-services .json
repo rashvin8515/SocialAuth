@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83098979459",
+    "project_id": "socialauth-7dabc",
+    "storage_bucket": "socialauth-7dabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83098979459:android:2f4f770dc35031216d5fb6",
+        "android_client_info": {
+          "package_name": "com.example.socialauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83098979459-29tglevoonsudg93c1bq48a8lp7v833e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8iuUF2mVGhA-Wi-BJ84oRS_Sa6nF__a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83098979459-29tglevoonsudg93c1bq48a8lp7v833e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
